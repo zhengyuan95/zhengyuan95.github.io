@@ -1,8 +1,8 @@
-# sonnenschein95.github.io
+# zhengyuan95.github.io
 
 Personal academic homepage for Zhengyuan Zhang, Postdoctoral Research Fellow at Nanyang Technological University.
 
-Live at: https://sonnenschein95.github.io
+Live at: https://zhengyuan95.github.io
 
 ## Structure
 
